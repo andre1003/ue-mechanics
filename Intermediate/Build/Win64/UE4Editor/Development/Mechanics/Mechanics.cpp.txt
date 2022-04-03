@@ -1,0 +1,2 @@
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Definitions.Mechanics.h
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Source\Mechanics\Mechanics.h

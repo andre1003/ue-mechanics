@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Mechanics",
+			"Path": "C:\\Users\\andre\\Documents\\Unreal Projects\\Mechanics\\Source\\Mechanics.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MechanicsEditor",
+			"Path": "C:\\Users\\andre\\Documents\\Unreal Projects\\Mechanics\\Source\\MechanicsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,100 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\MechanicsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\BotAIController.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\BotCharacter.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Inventory.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\InventoryActor.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Item.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\MechanicsPlayerController.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\PlayerAnimInstance.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\PlayerStatus.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Potion.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Sword.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\ThirdPersonCharacter.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Weapon.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Mechanics.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\MechanicsGameModeBase.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\BotAIController.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\BotCharacter.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\InventoryActor.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Item.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Mechanics.init.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\MechanicsGameModeBase.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\MechanicsPlayerController.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\PlayerAnimInstance.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\PlayerStatus.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Potion.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Sword.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\ThirdPersonCharacter.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Weapon.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Default.rc2.res"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\AIModule\UE4Editor-AIModule.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\UMG\UE4Editor-UMG.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"C:\Users\andre\Documents\Unreal Projects\Mechanics\Binaries\Win64\UE4Editor-Mechanics-0179.dll"
+/IMPLIB:"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\UE4Editor-Mechanics-0179.suppressed.lib"
+/PDB:"C:\Users\andre\Documents\Unreal Projects\Mechanics\Binaries\Win64\UE4Editor-Mechanics-0179.pdb"
+/ignore:4078

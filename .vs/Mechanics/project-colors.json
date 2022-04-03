@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "fcc8dfb7-c0f5-452c-8492-602bddc23f22": {
+      "ProjectGuid": "fcc8dfb7-c0f5-452c-8492-602bddc23f22",
+      "DisplayName": "Mechanics",
+      "ColorIndex": 0
+    },
+    "953916be-3c86-4f19-863a-3825b1cf912c": {
+      "ProjectGuid": "953916be-3c86-4f19-863a-3825b1cf912c",
+      "DisplayName": "UE4",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

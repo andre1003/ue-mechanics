@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Mechanics-4427.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\MechanicsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\BotAIController.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\BotCharacter.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\PlayerAnimInstance.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\PlayerStatus.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Sword.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Weapon.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Mechanics.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\MechanicsGameModeBase.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\ThirdPersonCharacter.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\BotAIController.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\BotCharacter.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Mechanics.init.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\MechanicsGameModeBase.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\PlayerAnimInstance.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\PlayerStatus.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Sword.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\ThirdPersonCharacter.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Weapon.gen.cpp.obj"
+"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Default.rc2.res"
+/OUT:"C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\UE4Editor-Mechanics-4427.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\andre\\Documents\\Unreal Projects\\Mechanics\\Source\\Mechanics\\Mechanics.Build.cs",
+		"C:\\Users\\andre\\Documents\\Unreal Projects\\Mechanics\\Source\\Mechanics.Target.cs",
+		"C:\\Users\\andre\\Documents\\Unreal Projects\\Mechanics\\Source\\MechanicsEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

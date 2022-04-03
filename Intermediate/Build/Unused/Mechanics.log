@@ -1,0 +1,34 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\andre\Documents\Unreal Projects\Mechanics).
+  Parsing headers for MechanicsEditor
+    Running UnrealHeaderTool "C:\Users\andre\Documents\Unreal Projects\Mechanics\Mechanics.uproject" "C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\MechanicsEditor\Development\MechanicsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\andre\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  C:/Users/andre/Documents/Unreal Projects/Mechanics/Source/Mechanics/Public/ThirdPersonCharacter.h(24) : LogEnum: Error: Enum name collision: 'Idle' is in both '/Script/Mechanics.EPlayerStatus' and '/Script/Mechanics.EStatus'
+  C:/Users/andre/Documents/Unreal Projects/Mechanics/Source/Mechanics/Public/ThirdPersonCharacter.h(24) : LogEnum: Error: Enum name collision: 'Walking' is in both '/Script/Mechanics.EPlayerStatus' and '/Script/Mechanics.EStatus'
+  C:/Users/andre/Documents/Unreal Projects/Mechanics/Source/Mechanics/Public/ThirdPersonCharacter.h(24) : LogEnum: Error: Enum name collision: 'Running' is in both '/Script/Mechanics.EPlayerStatus' and '/Script/Mechanics.EStatus'
+  C:/Users/andre/Documents/Unreal Projects/Mechanics/Source/Mechanics/Public/ThirdPersonCharacter.h(24) : LogEnum: Error: Enum name collision: 'Crouching' is in both '/Script/Mechanics.EPlayerStatus' and '/Script/Mechanics.EStatus'
+  C:/Users/andre/Documents/Unreal Projects/Mechanics/Source/Mechanics/Public/ThirdPersonCharacter.h(24) : LogEnum: Error: Enum name collision: 'Dodging' is in both '/Script/Mechanics.EPlayerStatus' and '/Script/Mechanics.EStatus'
+  Reflection code generated for MechanicsEditor in 3,411199 seconds
+  Building MechanicsEditor...
+  Using Visual Studio 2022 14.30.30709 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 11 actions with 12 processes...
+    [1/11] Item.cpp
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Source\Mechanics\Private\Item.cpp(21): warning C4928: inicialização de cópia inválida; mais de uma conversão definida pelo usuário foi aplicada implicitamente
+    C:\Users\andre\Documents\Unreal Projects\Mechanics\Source\Mechanics\Private\Item.cpp(21): note: ao chamar o construtor 'TSubclassOf<ASword>::TSubclassOf(UClass *)'
+    C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Templates/SubclassOf.h(34): note: consulte a declaração de 'TSubclassOf<ASword>::TSubclassOf'
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Source\Mechanics\Private\Item.cpp(26): warning C4928: inicialização de cópia inválida; mais de uma conversão definida pelo usuário foi aplicada implicitamente
+    C:\Users\andre\Documents\Unreal Projects\Mechanics\Source\Mechanics\Private\Item.cpp(26): note: ao chamar o construtor 'TSubclassOf<APotion>::TSubclassOf(UClass *)'
+    C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Templates/SubclassOf.h(34): note: consulte a declaração de 'TSubclassOf<APotion>::TSubclassOf'
+    [2/11] Potion.cpp
+    [3/11] Mechanics.init.gen.cpp
+    [4/11] ThirdPersonCharacter.gen.cpp
+    [5/11] Sword.cpp
+    [6/11] BotAIController.cpp
+    [7/11] MechanicsGameModeBase.cpp
+    [8/11] ThirdPersonCharacter.cpp
+    [9/11] UE4Editor-Mechanics-0002.lib
+       Criando biblioteca C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\UE4Editor-Mechanics-0002.lib e objeto C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\UE4Editor-Mechanics-0002.exp
+    [10/11] UE4Editor-Mechanics-0002.dll
+       Criando biblioteca C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\UE4Editor-Mechanics-0002.suppressed.lib e objeto C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\UE4Editor-Mechanics-0002.suppressed.exp
+    [11/11] MechanicsEditor.target
+  Total time in Parallel executor: 4,56 seconds
+  Total execution time: 8,67 seconds

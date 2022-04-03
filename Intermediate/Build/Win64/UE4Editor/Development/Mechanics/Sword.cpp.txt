@@ -1,0 +1,17 @@
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Development\Mechanics\Definitions.Mechanics.h
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Source\Mechanics\Public\Sword.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBox.generated.h
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Inc\Mechanics\Sword.generated.h
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Source\Mechanics\Public\BotCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Inc\Mechanics\BotCharacter.generated.h
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Source\Mechanics\Public\ThirdPersonCharacter.h
+C:\Users\andre\Documents\Unreal Projects\Mechanics\Intermediate\Build\Win64\UE4Editor\Inc\Mechanics\ThirdPersonCharacter.generated.h

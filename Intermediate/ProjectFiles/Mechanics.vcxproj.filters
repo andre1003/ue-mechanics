@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Mechanics.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B0BEE656-ADDD-430D-B79F-D4459FFBB4EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Mechanics.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MechanicsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\CHANGELOG.md" />
+    <None Include="..\..\git-lfs" />
+    <None Include="..\..\install.sh" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{17F1160A-81F9-489E-AB4A-A886D4B4679C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Mechanics">
+      <UniqueIdentifier>{7CF1C8B0-3455-420D-9FF9-60EF6589EB97}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Mechanics\Mechanics.Build.cs">
+      <Filter>Source\Mechanics</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Mechanics\Mechanics.cpp">
+      <Filter>Source\Mechanics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mechanics\Mechanics.h">
+      <Filter>Source\Mechanics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mechanics\MechanicsGameModeBase.cpp">
+      <Filter>Source\Mechanics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mechanics\MechanicsGameModeBase.h">
+      <Filter>Source\Mechanics</Filter>
+    </ClInclude>
+    <Filter Include="Source\Mechanics\Private">
+      <UniqueIdentifier>{1C9592FD-9367-482F-BAA0-D557E971400A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Mechanics\Private\BotAIController.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\BotCharacter.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\Inventory.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\InventoryActor.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\Item.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\MechanicsPlayerController.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\PlayerAnimInstance.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\PlayerStatus.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\Potion.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\Sword.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\ThirdPersonCharacter.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Mechanics\Private\Weapon.cpp">
+      <Filter>Source\Mechanics\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Mechanics\Public">
+      <UniqueIdentifier>{9FFF754F-7B9E-4363-B1DF-5BDB4362C34D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Mechanics\Public\BotAIController.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\BotCharacter.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\Inventory.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\InventoryActor.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\Item.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\MechanicsPlayerController.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\PlayerAnimInstance.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\PlayerStatus.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\Potion.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\Sword.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\ThirdPersonCharacter.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mechanics\Public\Weapon.h">
+      <Filter>Source\Mechanics\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
